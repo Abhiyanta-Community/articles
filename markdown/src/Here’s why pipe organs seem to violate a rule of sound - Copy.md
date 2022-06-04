@@ -1,3 +1,4 @@
+<!-- https://source.unsplash.com/random/1920x1080/?wallpaper,landscape -->
 A speck of gold dancing to a pipe organ’s tune has helped solve a long-standing mystery: why certain wind instruments violate a mathematical formula that should describe their sound.
 
 In 1860, physicist Hermann von Helmholtz — famous for his law of the conservation of energy — devised an equation relating the wavelength of a pipe’s fundamental tone (the lowest frequency at which it resonates) to pipe length (SN: 3/31/28). Generally, the longer a pipe is, the lower its fundamental tone will be.
