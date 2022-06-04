@@ -1,3 +1,4 @@
+<!-- https://source.unsplash.com/random/1920x1080/?wallpaper,landscape -->
 When a star gets too close to a black hole, sparks fly. And, potentially, so do subatomic particles called neutrinos.
 
 A dramatic light show results when a supermassive black hole rips apart a wayward star. Now, for the second time, a high-energy neutrino has been spotted that may have come from one of these “tidal disruption events,” researchers report in a study accepted in Physical Review Letters.
