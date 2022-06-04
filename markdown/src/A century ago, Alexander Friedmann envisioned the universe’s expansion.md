@@ -1,3 +1,4 @@
+<!-- https://source.unsplash.com/random/1920x1080/?wallpaper,landscape -->
 For millennia, the universe did a pretty good job of keeping its secrets from science.
 
 Ancient Greeks thought the universe was a sphere of fixed stars surrounding smaller spheres carrying planets around the central Earth. Even Copernicus, who in the 16th century correctly replaced the Earth with the sun, viewed the universe as a single solar system encased by the star-studded outer sphere.
