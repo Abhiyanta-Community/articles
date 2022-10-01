@@ -3,7 +3,7 @@ name: Article Workflow
 on:
   push:
     branches:
-      - 'master'
+      - 'testArticles'
 jobs:
   create_issue:
     runs-on: ubuntu-latest
