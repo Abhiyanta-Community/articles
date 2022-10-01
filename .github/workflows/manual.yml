@@ -3,7 +3,7 @@ name: Article Workflow
 on:
   push:
     branches:
-      - 'testArticles'
+      - 'master'
 jobs:
   create_issue:
     runs-on: ubuntu-latest
@@ -12,12 +12,10 @@ jobs:
       - uses: nashmaniac/create-issue-action@v1.1
         name: Create Issue Action
         with:
-          title:  New Article by ${{github.actor}
+          title: New Article 
           token: ${{secrets.GITHUB_TOKEN}}
           assignees: ${{github.actor}}
           labels: documentation
-          body: Members ${{github.actor}} article ${{github.sha}}
+          body: ${{github.actor}} Members article ${{github.sha}}
         
       - uses: actions/checkout@v3
-
- 
