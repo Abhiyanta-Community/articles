@@ -5,10 +5,9 @@ jobs:
   create_issue:
     runs-on: ubuntu-latest
     steps:
-
-      - uses: nashmaniac/create-issue-action@v1.1
-        name: Create Issue Action
-        with:
+      -  uses: buluma/create-issue-action@v2.0.0
+         name: Create Issue Action
+         with:
           title: New Article by ${{github.actor}} 
           token: ${{secrets.GITHUB_TOKEN}}
           assignees: ${{github.actor}}
