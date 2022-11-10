@@ -150,6 +150,7 @@ Here's a "line block" (note how whitespace is honored):
 and images can be specified like so:
 
 ![example image](https://avatars.githubusercontent.com/u/68221302?s=200&v=4 "An exemplary image")
+[example image](https://avatars.githubusercontent.com/u/68221302?s=200&v=4 "An exemplary image")
 
 Inline math equation: $\omega = d\phi / dt$. Display
 math should get its own line like so:
